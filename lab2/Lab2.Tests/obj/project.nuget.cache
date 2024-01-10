@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ci2jSq7gSJcWvmYIieFdHQatlcei+H4AzhjUmdR72zyEwRtAlK+yIntz/srM1p0cCXygVdAikvQohNvGdphuQg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2.Tests\\Lab2.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "libraryId": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

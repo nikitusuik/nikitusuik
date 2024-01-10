@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Никита\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2.Tests\\Lab2.Tests.csproj",
+      "projectName": "Lab2.Tests",
+      "projectPath": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2.Tests\\Lab2.Tests.csproj",
+      "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj": {
+              "projectPath": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "libraryId": "C:\\Users\\Никита\\OneDrive\\Документы\\GitHub\\nikitusuik\\lab2\\Lab2\\Lab2.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
